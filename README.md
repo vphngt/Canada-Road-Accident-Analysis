@@ -1,4 +1,4 @@
-# Ontario Road Safety Analysis (2019)
+# Canada Road Accident Analysis
 This interactive Power BI dashboard was built to analyze over 270,000 road accident records sourced from the Government of Ontario. The goal was to move beyond just "counting crashes" and actually find the patterns, how weather affects severity and which age groups are most at risk.
 
 ## Project Preview
@@ -15,5 +15,5 @@ Even though I've simplified the view for the dashboard, the backend of this proj
 2. **Relational Mapping:** I linked these facts to 20+ different dimension tables. This allowed me to map the government's raw numeric codes into human-readable categories without bloating the file size.
 
 ## Try it out
-1. Download the Canadian Road Accident.pbix file and open it in Power BI Desktop.
+1. Download the `Canadian Road Accident.pbix` file and open it in Power BI Desktop.
 2. Use the filters on the left to drill down into specific demographics or road conditions.
