@@ -2,7 +2,7 @@
 * This interactive Power BI dashboard was built to analyze over 270,000 road accident records sourced from the Government of Ontario. The goal was to move beyond just "counting crashes" and actually find the patterns, how weather affects severity and which age groups are most at risk.
 
 ## Project Preview
-![Accident_Analysis](Canada Road Accident.pdf)
+![Accident_Analysis](Canada Road Accidents.pdf)
 
 ## Overview
 * ETL & Data Cleaning: Handled the heavy lifting in Power Query like filtering out nulls, standardizing data types, and merging tables.
